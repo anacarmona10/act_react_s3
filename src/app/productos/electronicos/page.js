@@ -9,6 +9,8 @@ export default function page() {
           <li> Lavadora </li>
           <li> Sanduchera </li>
         </ul>
+
+        <p>3 Productos encontrados</p>
     </>
   )
 }

@@ -9,6 +9,8 @@ export default function page() {
           <li> Pantalón baggy </li>
           <li> Camiseta </li>
         </ul>
+
+        <p>3 Productos encontrados</p>
     </>
   )
 }
